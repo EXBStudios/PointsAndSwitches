@@ -9,6 +9,7 @@ local CRP = "SCRIPT MADE BY FELIX CAPHRTON FROM EXB STUDIOS"
 local Ver = 1.0
 -- Retrieve Rails (Set this to your Rails you'd like to use, To add new Rails, add another letter, to remove them, Delete the variable and every time it was called)
 -- CR are the Rails you are going to make Transparent and that the Train can go through
+-- Replace CR.Rail(Letter) with the Specific Part/Rail you want to Change
 local CRA = CR.RailA
 local CRB = CR.RailB
 local CRC = CR.RailC
