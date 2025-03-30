@@ -49,4 +49,14 @@ part.function(hit):Connect(
     prelsignal3.colour = 0,0,0
     prelsignal3.SurfaceLight.Enabled = false
     prelsg.SST.Value = "preliminary caution"
+    -- Signal to green
+    grensignal4.colour = 0,0,0
+    grensignal4.SurfaceLight.Enabled = false
+    grensignal1.colour = 0,0,0
+    grensignal1.SurfaceLight.Enabled = false
+    grensignal2.colour = 73,112,65
+    grensignal2.SurfaceLight.Enabled = true
+    grensignal3.colour = 0,0,0
+    grensignal3.SurfaceLight.Enabled = false
+    grensg.SST.Value = "proceed"
 end)
